@@ -19,7 +19,7 @@ export const requestConfig: RequestConfig = {
   // baseURL: 'http://123.207.3.145:8090',
   // baseURL: 'http://www.LKJ-code.work:8090',
 
-  // baseURL: 'http://8.134.201.204:8090',
+  // baseURL: 'http://服务器id:8090',
   baseURL: 'http://localhost:8090',
   withCredentials: true,
 
